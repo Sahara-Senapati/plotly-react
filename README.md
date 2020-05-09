@@ -1,4 +1,4 @@
-React Plotly.js in JavaScript
+React Plotly.js 
 
 Plotly.js is a high-level, open source, declarative library used for building various charts and other web interfaces. Plotly.js ships with over 40 chart types, including 3D charts, statistical graphs, and SVG maps.
 We can use react-plotly.js to embed D3 charts in our React-powered web application. This React component takes the chart type, data, and styling as Plotly JSON in its data and layout props, then draws the chart using Plotly.js.
